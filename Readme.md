@@ -46,6 +46,7 @@ time data (traces) from distributed applications and helps troubleshoot latency 
 4. [Configuration](#configuration)
 5. [Endpoints](#endpoints)
 6. [Contact](#contact)
+7. [Credits](#credits)
 
 ## Features
 
@@ -209,3 +210,9 @@ Endpoints
 - Email     : bangkitunom87@gmail.com
 - Linkedin  : https://www.linkedin.com/in/bangkit-sedhayu
 - Github    : https://github.com/anom768
+
+## Credits
+This application is based on the teachings and materials from
+the Programming Techie Course. The course provided valuable
+insights and knowledge essential for developing this project.
+https://youtu.be/mPPhcU7oWDU?si=Lv-rx5Hgnq_b3Qzv
