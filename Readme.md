@@ -1,4 +1,4 @@
-# Spring Microservice 2
+# Springboot Microservice 2
 
 ![Application Structure](src/main/resources/application-structure.png)
 
